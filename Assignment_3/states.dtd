@@ -1,0 +1,6 @@
+<!ELEMENT states (state*)>
+<!ELEMENT state (name, capital, districts, population)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT capital (#PCDATA)>
+<!ELEMENT districts (#PCDATA)>
+<!ELEMENT population (#PCDATA)>
